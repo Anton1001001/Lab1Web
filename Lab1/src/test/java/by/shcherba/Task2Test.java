@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class Task2Test {
 
     @Test
-    void checkPoint() {
+    void Task2() {
         boolean expected = true;
         boolean actual = Task2.checkPoint(4, 0);
         assertEquals(expected, actual);

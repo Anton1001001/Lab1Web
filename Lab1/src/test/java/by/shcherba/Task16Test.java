@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Task16Test {
     @Test
-    public void Task16() throws Exception {
+    public void Task16() {
         boolean ok = true;
 
         List<Book> books = new ArrayList<>();

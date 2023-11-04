@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Task15Test {
     @Test
-    public void Task15() throws Exception {
+    public void Task15() {
         List<Book> books = new ArrayList<>();
         books.add(new Book("Book 3", "Author 3", 30, 3));
         books.add(new Book("Book 1", "Author 1", 10, 1));

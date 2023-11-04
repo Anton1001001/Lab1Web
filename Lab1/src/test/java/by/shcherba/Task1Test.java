@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class Task1Test {
 
     @Test
-    void calculateExpression() {
+    void Task1() {
         double actual = Task1.calculateExpression(1, 1);
         double expected = 1.913410905215903;
         assertEquals(expected, actual);

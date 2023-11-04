@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Task12Test {
     @Test
-    public void Task12() throws Exception {
+    public void Task12() {
         boolean ok = true;
 
         Book book1 = new Book("WhiteFang", "London", 100, 1);

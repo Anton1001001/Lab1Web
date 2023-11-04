@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class Task4Test {
 
     @Test
-    void isPrime() {
+    void Task4() {
         int[] arr = {2, 3, 4, 6, 7};
         boolean[] check = {true, true, false, false, true};
         int arrLength = arr.length;

@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class Task6Test {
 
     @Test
-    void generateMatrix() {
+    void Task6() {
         int[] A = {1, 2, 3, 4};
         int[][] expected = {  {1, 2, 3, 4},
                               {2, 3, 4, 1},
